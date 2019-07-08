@@ -1,19 +1,19 @@
 # VIRTEX
 
-# apt install git
+apt install git
 
-# apt install curl
+ apt install curl
 
-# apt install figlet
+ apt install figlet
 
-# apt install ruby
+ apt install ruby
 
-# gem install lolcat
+ gem install lolcat
 
-# git clone https://github.com/Firman-Cilung/VIRTEX
+ git clone https://github.com/Firman-Cilung/VIRTEX
 
-# cd VIRTEX
+ cd VIRTEX
 
-# chmod +x virtex.sh
+ chmod +x virtex.sh
 
-# sh virtex.sh
+ sh virtex.sh
