@@ -2,7 +2,8 @@
 
 Link wa imnune/ antivirus 
 http://www.mediafire.com/file/1th6c0iqwms1bzi/KAWhatsApp+Inmune+%28byfirman%29.apk
-apt install git
+
+ apt install git
 
  apt install curl
 
